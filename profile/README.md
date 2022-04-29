@@ -8,3 +8,11 @@ Our website is available at https://www.newcastlescouts.org.uk/
 
 ### Digital Active Support Unit
 This GitHub organisation is maintained by the Digital Active Support Unit (ASU). We have a few open-source projects, largely relating to Online Scout Manager.
+
+### Sponsors
+Thanks to our incredible sponsors who help us enable young people with skills for life...
+
+-----
+<img src="https://i.imgur.com/SWP9m0F.png" style="width: 128px">
+
+[Sentry](https://sentry.io) has generously sponsored our metrics & error reporting.
